@@ -36,4 +36,14 @@ php artisan migrate
 7. Run the migration with test data with the following command
 ```shell
 php artisan migrate:fresh --seed
+```
+7. Run we are going to raise a development server.
+```shell
+php artisan serve
 
+```
+7. Run we are going to raise a development server.
+```shell
+**
+User: admin@admin.com
+password: 12345678
